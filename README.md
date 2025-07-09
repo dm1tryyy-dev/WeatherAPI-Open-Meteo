@@ -1,4 +1,4 @@
-# Wether API with Open-Meteo API
+# Weather API with Open-Meteo API
 
 ### Запустите файл `main_weather.py`, в терминале напишите существующий город в мире (на русском) и дождитесь ответа от API.
 
